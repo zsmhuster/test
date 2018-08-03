@@ -1,3 +1,4 @@
 Git is a version control system.  zsmhust  111   222
 Git is free software zsmhust  111  222
 test a branch
+git merge -no-ff -m "merge with no-ff" dev
